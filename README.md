@@ -3,6 +3,6 @@ Detect when a user's outfit changes. Can be useful if they are putting an asset 
 
 ### How do I use this? 
 
-Download the source for the file then just run it using node. Pass the userid of the player you wish to detect avatar changes for (~~stalk~~). 
+Download the source for the file then just run it using node. Pass the userid of the player you wish to ~~stalk~~ detect avatar changes for.
 
 ex. `node watcher.js 39939779`
